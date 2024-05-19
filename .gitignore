@@ -3,6 +3,8 @@
 
 .metadata
 
+demo_dao_jdbc
+
 # Log file
 *.log
 
